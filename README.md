@@ -1,7 +1,7 @@
 # visualising_research
 All data and code to make plots from Smethurst et al. (2016) MNRAS, 463, 2986 for Oxford's visualising research scheme. 
 
-Within the project folder, at the command line:
+Within the project folder, at the command line, type:
  
     jupyter notebook
 
